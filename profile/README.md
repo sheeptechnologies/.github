@@ -1,8 +1,7 @@
 <img src="assets/logo.png" height="50"> <img src="assets/sheep_logo.png" height="40">
 
-# The Primitives for Cognitive Sovereignty
+# Grounding the Agentic Future
 
-### Don't rent your intelligence. Build it.
 
 Relying on closed AI monoliths means exposing your IP, your data, and your business logic to black boxes you cannot control. Sheep Technologies exists to solve this engineering gap.
 
